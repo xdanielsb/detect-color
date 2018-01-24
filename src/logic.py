@@ -5,8 +5,8 @@ import numpy as np
 #Now define the boundaries for the colors that we want to capture
 boundaries = [
  ([0, 0, 0], [255,50, 50]), #blue
- ([0, 0, 0], [50,255, 50]), #green
- ([0, 0, 0], [50,50, 255]), #red
+# ([0, 0, 0], [50,255, 50]), #green
+# ([0, 0, 0], [50,50, 255]), #red
 ]
 
 def start(image):
