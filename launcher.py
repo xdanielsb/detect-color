@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import argparse
 import cv2
-from logic import start
+from src.logic import start
 
 __author__ = "Daniel Fernando Santos Bustos"
 __license__ = "MIT"
