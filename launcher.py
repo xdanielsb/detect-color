@@ -5,7 +5,7 @@ import os
 from src.logic import start
 
 __author__ = "Daniel Fernando Santos Bustos"
-__license__ = "MIT"
+__license__ = "GPL V3"
 __version__ = "1.0"
 __maintainer__ = "Daniel Santos"
 __email__ = "dfsantosbu@unal.edu.co"
