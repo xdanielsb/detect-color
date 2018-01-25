@@ -22,7 +22,7 @@ Add the range of color that you want to detect
 Launch the program with example image
 
 ```sh
-  $ python launcher.py --image path-image
+  $ python launcher.py 
 ```
 
 Launch the program with your custom image
